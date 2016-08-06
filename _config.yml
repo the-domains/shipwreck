@@ -1,0 +1,14 @@
+layout_spectrum: 0.9743131
+color:
+  saturation: 0.2946795
+  lightness: 0.1998408
+  brandStrength: 0.4915926
+  brandColors:
+    - '#222421'
+    - '#434436'
+    - '#DAB773'
+    - '#756E52'
+    - '#9B8D61'
+  rhythmicContrast: 0.5194312
+typography_spectrum: 0.9277181
+name: Shipwreck
